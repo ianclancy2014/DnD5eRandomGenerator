@@ -10,7 +10,7 @@ Uses:
   This project can be used in part or in whole to help you run your Dungeons and Dragons games more efficiently.
 
 How to get started:
-
+  Until better functionality can be implemented, download the DnD5RandGen folder and open the index.html file in chrome.
 
 
 About the authors:
