@@ -17,7 +17,7 @@
 
 let numberOfEnemies = [2, 3, 4, 5, 6];
 let raceOfEnemies = ["Orc", "Goblin", "Dwarf", "Elf", "Human", "Giant"];
-let typeOfEnemies = ["Guards", "Bandits", "Travelers", "Merchants"];
+let typeOfEnemies = ["Guards", "Bandits", "Travelers", "Merchants", "jerk"];
 
 let enemyNumber =
   numberOfEnemies[Math.floor(Math.random() * numberOfEnemies.length)];
